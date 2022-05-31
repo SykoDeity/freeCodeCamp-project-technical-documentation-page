@@ -1,2 +1,2 @@
 # freeCodeCamp-project-technical-pagedocumentation-
-freeCodeCamp Certification Project - Create a technical documentation page form with specifications set by freeCodeCamp.
+freeCodeCamp Certification Project - Create a technical documentation page with specifications set by freeCodeCamp.
